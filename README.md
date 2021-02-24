@@ -8,6 +8,7 @@
 * Java: 1.8
 * Springboot: 2.4.3 with Rest, JPA, Scheduler and Cache
 * H2 Database
+* swagger
 * iText
 	
 ## Setup
